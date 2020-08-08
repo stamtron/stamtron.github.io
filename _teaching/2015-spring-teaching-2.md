@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "C++ Teaching Assistant"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Strathclyde, EEE Department"
 date: 2015-01-01
-location: "City, Country"
+location: "Glasgow, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Assisitng 2nd year students with lab C++ exercises and project.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
