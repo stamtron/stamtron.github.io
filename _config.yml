@@ -85,7 +85,7 @@ author:
   bio              : "PhD Student in EEE Department, University of Strathclyde"
   location         : "Glasgow, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=glHySrUAAAAJ&hl=en"
   email            : "anastasios.stamoulakatos@strath.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Anastasios_Stamoulakatos"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/stamtron"
+  github           : "stamtron"
   google_plus      :
   keybase          :
   instagram        :
