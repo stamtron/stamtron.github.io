@@ -3,7 +3,7 @@ title: "Private Maths/Physics Tutoring"
 collection: teaching
 type: "Private Tutoring"
 permalink: /teaching/2014-spring-teaching-1
-date: "2015 - 2018"
+date: 2015-01-01
 location: "Athens, Greece"
 ---
 
