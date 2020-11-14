@@ -12,6 +12,6 @@ I am a third and final year PhD student at the [EEE Department of University of 
 
 Before that, I completed my diploma (combined BEng and MEng) at the National Technical University of Athens in Athens, Greece, [department of Electrical and Computer Engineering](https://www.ece.ntua.gr/en). In my diploma thesis, I addressed the task of classifying ultrasound images of carotids based on their levels of entropy and complexity, using Wavelet Transforms and SVM with rbf kernel under the supervision of [Konstantina Nikita](https://www.ece.ntua.gr/en/staff/57).
 
-I see myself as a Machine Learning Engineer with focus on Applied Computer Vision that likes to work in cooperative environments which give the opportunity of skill improvement and eventually becoming an expert in the field.
+I see myself as a Machine Learning Engineer with focus on Applied Computer Vision that likes working in cooperative environments which provide the opportunity of skill improvement and eventually becoming an expert in the field.
 
 
