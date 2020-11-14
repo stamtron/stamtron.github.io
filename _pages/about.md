@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anastasios Stamoulakatos"
+title: "Anastasios (Tasos) Stamoulakatos"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-During my M.Eng. studies in NTUA, I had a first glimpse of Machine Learning and immediately became
-excited about it. I am currently following a PhD in the University of Strathclyde, Glasgow, working on
-automating Subsea Survey Video Annotations using Deep Learning. During my PhD, I have had the
-luck to be involved in Computer Vision projects of image and video classification, object detection and
-instance segmentation. I see myself as a Machine Learning Engineer with focus on Applied Computer
-Vision and I would like to work in a cooperative environment that will give me the opportunity to
-improve my skills and eventually become an expert in the field.
+I am a third and final year PhD student at the [EEE Department of University of Strathclyde] (https://www.strath.ac.uk/engineering/electronicelectricalengineering/), in [CIDCOM group ] (https://www.strath.ac.uk/research/subjects/electronicelectricalengineering/instituteforsensorssignalscommunications/centreforintelligentdynamiccommunications/) under the supervision of [Christos Tachtatzis] (https://www.strath.ac.uk/staff/tachtatzischristosdr/). My research interests consist of Image and Video Recognition, Multi-label Classification, Dataset Imbalance and Cost Sensitive Learning. My main project is about the automation of Subsea Survey Video Annotations using Deep Learning. To address that, various Residual 2D and 3D, LSTM and Attention models have been implemented along with techniques of Regularization, Transfer Learning, Spatial and Temporal Augmentation, Weighted Los and Model Calibration. During my first two years I also worked in several industrial projects of applied computer vision (Object Detection and Image Segmentation).
+
+Before that, I completed my diploma (combined BEng and MEng) at the National Technical University of Athens in Athens, Greece, [department of Electrical and Computer Engineering] (https://www.ece.ntua.gr/en). In my diploma thesis, I addressed the task of classifying ultrasound images of carotids based on their levels of entropy and complexity, using Wavelet Transforms and SVM with rbf kernel under the supervision of Konstantina Nikita.
+
+I see myself as a Machine Learning Engineer with focus on Applied Computer Vision that likes to work in cooperative environments which give the opportunity of skill improvement and eventually becoming an expert in the field.
+
+
