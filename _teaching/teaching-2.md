@@ -2,7 +2,7 @@
 title: "C++ Teaching Assistant"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/teaching-2
 venue: "University of Strathclyde, EEE Department"
 date: 2015-01-01
 location: "Glasgow, UK"

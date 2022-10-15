@@ -179,6 +179,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  ml_projects:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -243,6 +246,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _ml_projects
+  - scope:
+      path: ""
+      type: ml_projects
+    values:
+      layout: ml_projects
       author_profile: true
       share: true
 
