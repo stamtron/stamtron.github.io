@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anastasios Stamoulakatos"
 title_separator          : "-"
 name                     : &name "Anastasios Stamoulakatos"
-description              : &description "PhD Student in EEE Department, University of Strathclyde"
+description              : &description "Research Assistant and PhD Candidate at University of Strathclyde"
 url                      : https://stamtron.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stamtron/stamtron.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anastasios Stamoulakatos"
   avatar           : "tas.jpg"
-  bio              : "PhD Student in EEE Department, University of Strathclyde"
+  bio              : "Research Assistant and PhD Candidate at University of Strathclyde"
   location         : "Glasgow, UK"
   employer         :
   pubmed           :
