@@ -10,4 +10,3 @@ location: "Glasgow, UK"
 
 - Assisted 2nd year students in C++ lab exercises and final project 
 - Taught fundamentals of coding and object oriented programming
-

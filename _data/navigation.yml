@@ -5,7 +5,13 @@ main:
 
   - title: "ML Projects"
     url: /ml_projects/    
+    
+  - title: "Teaching"
+    url: /teaching/
         
   - title: "CV"
     url: /cv/
+    
+
+    
     
