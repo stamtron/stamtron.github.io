@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/teaching-2
 venue: "University of Strathclyde, EEE Department"
-date: 2015-01-01
+date: 2018-10-01
 location: "Glasgow, UK"
 ---
 
