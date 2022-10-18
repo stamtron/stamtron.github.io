@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Anastasios Stamoulakatos"
 title_separator          : "-"
 name                     : &name "Anastasios Stamoulakatos"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master", #"gh-pages" # , "gh-pages"
+  branch                 : "gh-pages", #"master", # # , "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -122,7 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
-  - _cv
+#  - _cv
 #  - _ml_projects
 exclude:
   - "*.sublime-project"
@@ -190,6 +190,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  cv:
     output: true
     permalink: /:collection/:path/
 

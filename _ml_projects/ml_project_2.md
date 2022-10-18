@@ -3,7 +3,7 @@ title: "Improving the Safety, Reliability, and Efficiency of Cargo Transportatio
 collection: ml_projetcs
 permalink: /ml_projects/ml-project_2
 venue: "University of Strathclyde, EEE Department"
-date: May 2019 - July 2019
+date: 2019-10-01
 location: "Glasgow, UK"
 ---
 - Multi-class object detection using RetinaNet
