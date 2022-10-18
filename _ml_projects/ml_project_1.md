@@ -1,7 +1,7 @@
 ---
 title: "Global Wheat Detection (Kaggle Competition)"
 collection: ml_projetcs
-permalink: /ml_projects/ml-project_1
+permalink: /ml_projects/ml_project_1
 venue: "University of Strathclyde, EEE Department"
 date: 2020-10-01
 location: "Glasgow, UK"

@@ -1,7 +1,7 @@
 ---
 title: "Automatic Identification of Asbestos Fibres in Air Samples using Deep Learning"
 collection: ml_projetcs
-permalink: /ml_projects/ml-project_3
+permalink: /ml_projects/ml_project_3
 venue: "University of Strathclyde, EEE Department"
 date: 2019-10-01
 location: "Glasgow, UK"

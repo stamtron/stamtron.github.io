@@ -1,7 +1,7 @@
 ---
 title: "Real-time Bolt Detection Using Deep Learning"
 collection: ml_projetcs
-permalink: /ml_projects/ml-project_5
+permalink: /ml_projects/ml_project_5
 venue: "National Manufacturing Institute of Scotland"
 date: 2022-01-01
 location: "Glasgow, UK"
