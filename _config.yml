@@ -123,7 +123,7 @@ include:
   - _pages
   - files
 #  - _cv
-  - _ml_projects
+#  - _ml_projects
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -257,7 +257,7 @@ defaults:
       path: ""
       type: ml_projects
     values:
-      layout: ml_projects
+      layout: single
       author_profile: true
       share: true
 
