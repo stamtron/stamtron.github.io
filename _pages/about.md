@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 I am passionate about automating real world processes of inspection and manufacturing. I enjoy solving real-world probelms using Machine Learning, collaborating with other researchers and engineers and seeing my models from development to production.
 
 I am currently working as a Research Assistant in [CMAC](https://cmac.ac.uk/) where I am developing machine learning models that correlate particle microscopy data with bulk powder properties with the goal of improving the decision-making in medicine manufacturing.

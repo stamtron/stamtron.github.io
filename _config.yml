@@ -29,10 +29,10 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" #"light" (default), 
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages", #"master", # # , "gh-pages"
+  allowedFields          : ['name', 'email', 'url', 'message'] #'url'
+  branch                 : "gh-pages" #"master", # # , "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -123,7 +123,7 @@ include:
   - _pages
   - files
 #  - _cv
-#  - _ml_projects
+  - _ml_projects
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
