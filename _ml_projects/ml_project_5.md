@@ -9,4 +9,4 @@ location: "Glasgow, UK"
 - Development of a YOLOv5 deep learning bolt detector
 - Real-time bolt detection using ZED 2i camera and Edge AI Gateway
 
-[Download technical report here](http://stamtron.github.io/files/tect_report.pdf)
+[Download technical report here](http://stamtron.github.io/files/tech_report.pdf)
