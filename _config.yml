@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Anastasios Stamoulakatos"
 title_separator          : "-"
 name                     : &name "Anastasios Stamoulakatos"
-description              : &description "Research Assistant and PhD Candidate at University of Strathclyde"
+description              : &description "Data Scientist at Satalia | PhD in Applied AI"
 url                      : https://stamtron.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stamtron/stamtron.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Anastasios Stamoulakatos"
   avatar           : "tas.jpg"
-  bio              : "Research Assistant and PhD Candidate at University of Strathclyde"
+  bio              : "Data Scientist at Satalia | PhD in Applied AI"
   location         : "Glasgow, UK"
-  employer         : "CMAC"
+  employer         : "Satalia"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=glHySrUAAAAJ&hl=en"
   email            : "stamoulakatos.tasos@gmail.com"
@@ -103,6 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "anastasios-stamoulakatos-0b886911b"
+  medium           : "https://medium.com/@stamoulakatos.tasos"
   orcid            : "https://orcid.org/my-orcid"
   pinterest        :
   soundcloud       :
