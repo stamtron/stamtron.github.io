@@ -39,3 +39,181 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   Custom Sexy & Modern Styling Overrides
+   ========================================================================== */
+
+/* Modern Font Weight & Letter Spacing Tweak */
+body {
+  font-weight: 400;
+  letter-spacing: -0.01em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+
+/* Beautiful custom card layout grid */
+.card-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin: 2rem 0;
+
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* The Premium Sexy Card */
+.sexy-card {
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  border-radius: 16px;
+  padding: 1.5rem;
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.06);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px -15px rgba(59, 130, 246, 0.12), 0 0 0 1px rgba(59, 130, 246, 0.1);
+    border-color: rgba(59, 130, 246, 0.2);
+
+    &::before {
+      opacity: 1;
+    }
+  }
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-size: 1.25rem;
+    color: #1e293b;
+    background: linear-gradient(135deg, #1e293b 0%, #334155 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  p {
+    color: #475569;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 1.25rem;
+  }
+
+  .card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+  }
+}
+
+/* Accent Badges */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: rgba(59, 130, 246, 0.08);
+  color: #2563eb;
+  border: 1px solid rgba(59, 130, 246, 0.15);
+
+  &.purple {
+    background: rgba(139, 92, 246, 0.08);
+    color: #7c3aed;
+    border: 1px solid rgba(139, 92, 246, 0.15);
+  }
+
+  &.green {
+    background: rgba(16, 185, 129, 0.08);
+    color: #059669;
+    border: 1px solid rgba(16, 185, 129, 0.15);
+  }
+}
+
+/* Gradient Hero and Accent Text */
+.gradient-text {
+  background: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+}
+
+.sexy-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #ffffff !important;
+  background: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.2);
+
+  &:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 16px rgba(37, 99, 235, 0.3);
+    opacity: 0.95;
+  }
+}
+
+/* Modern clean look for Links */
+.page__content a:not(.sexy-btn):not(.btn) {
+  text-decoration: none;
+  color: #2563eb;
+  border-bottom: 2px solid rgba(37, 99, 235, 0.1);
+  transition: all 0.2s ease;
+
+  &:hover {
+    border-bottom-color: #2563eb;
+    background-color: rgba(37, 99, 235, 0.04);
+  }
+}
+
+/* Sidebar Avatar Pop */
+.author__avatar img {
+  border: 3px solid #ffffff !important;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1) !important;
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+
+  &:hover {
+    transform: scale(1.04) rotate(1deg);
+  }
+}
+
+/* Navigation items styling */
+.masthead__menu-item a {
+  font-weight: 600;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: #2563eb !important;
+  }
+}
