@@ -3,11 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Applied Research Projects"
+  - title: "Applied Research"
     url: /applied_research/
-
-  - title: "WPP Research"
-    url: https://research.wpp.com/
 
   - title: "Teaching"
     url: /teaching/
