@@ -10,7 +10,7 @@ redirect_from:
 
 <span class="gradient-text" style="font-size: 1.8rem; display: block; margin-bottom: 1rem; line-height: 1.2;">Data Scientist & Applied AI Researcher</span>
 
-I am a Data Scientist at **[Satalia](https://www.satalia.com/)** and hold a PhD in Applied AI. I specialize in bridging the gap between state-of-the-art academic research and real-world industrial systems—taking complex machine learning models from conceptual development to robust production pipelines.
+I am a Data Scientist at **[Satalia](https://www.satalia.com/)** and a contributor to **[WPP Research](https://research.wpp.com/)**, holding a PhD in Applied AI. I specialize in bridging the gap between state-of-the-art academic research and real-world industrial systems—taking complex machine learning models from conceptual development to robust production pipelines.
 
 My current focus lies in designing **autonomous AI agent architectures**, optimizing retrieval pipelines (**RAG**), and developing reliable machine learning applications.
 
