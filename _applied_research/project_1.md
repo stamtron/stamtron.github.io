@@ -1,7 +1,7 @@
 ---
 title: "Global Wheat Detection (Kaggle Competition)"
-collection: ml_projetcs
-permalink: /ml_projects/ml_project_1
+collection: applied_research
+permalink: /applied_research/project_1/
 date: 2020-10-01
 location: "Glasgow, UK"
 ---

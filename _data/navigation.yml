@@ -3,11 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "ML Projects"
-    url: /ml_projects/    
-    
+  - title: "Applied Research Projects"
+    url: /applied_research/
+
+  - title: "WPP Research"
+    url: https://research.wpp.com/
+
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Blog Posts"
+    url: /posts/
         
   - title: "CV"
     url: /cv/

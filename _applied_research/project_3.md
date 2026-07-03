@@ -1,7 +1,7 @@
 ---
 title: "Automatic Identification of Asbestos Fibres in Air Samples using Deep Learning"
-collection: ml_projetcs
-permalink: /ml_projects/ml_project_3
+collection: applied_research
+permalink: /applied_research/project_3/
 date: 2019-10-01
 location: "Glasgow, UK"
 ---

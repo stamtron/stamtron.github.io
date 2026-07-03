@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anastasios Stamoulakatos"
-  avatar           : "tas.jpg"
+  avatar           : "tas.png"
   bio              : "Data Scientist at Satalia | PhD in Applied AI"
   location         : "Athens, Greece"
   employer         : "Satalia"
@@ -104,7 +104,7 @@ author:
   lastfm           :
   linkedin         : "anastasios-stamoulakatos-0b886911b"
   medium           : "https://medium.com/@stamoulakatos.tasos"
-  orcid            : "https://orcid.org/my-orcid"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -124,7 +124,7 @@ include:
   - _pages
   - files
 #  - _cv
-#  - _ml_projects
+#  - _applied_research
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -181,7 +181,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  ml_projects:
+  applied_research:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -253,10 +253,10 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _ml_projects
+  # _applied_research
   - scope:
       path: ""
-      type: ml_projects
+      type: applied_research
     values:
       layout: single
       author_profile: true

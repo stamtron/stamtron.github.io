@@ -1,7 +1,7 @@
 ---
 title: "Predicting AirBnb Prices in Athens using Machine Learning"
-collection: ml_projetcs
-permalink: /ml_projects/ml_project_4
+collection: applied_research
+permalink: /applied_research/project_4/
 date: 2021-10-01
 location: "Athens, Greece"
 ---
