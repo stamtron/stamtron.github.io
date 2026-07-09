@@ -1,7 +1,7 @@
 ---
 title: "Agentic Frameworks: A Comparison"
-date: 2025-02-10
-permalink: /posts/2025/02/agentic-frameworks-comparison/
+date: 2025-08-06
+permalink: /posts/2025/08/agentic-frameworks-comparison/
 tags:
   - Agentic Frameworks
   - Medium

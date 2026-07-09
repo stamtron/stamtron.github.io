@@ -1,7 +1,7 @@
 ---
 title: "Building Effective AI Agents: A Brief Guide and Best Practices"
-date: 2025-01-15
-permalink: /posts/2025/01/building-effective-ai-agents/
+date: 2025-08-05
+permalink: /posts/2025/08/building-effective-ai-agents/
 tags:
   - AI Agents
   - Medium

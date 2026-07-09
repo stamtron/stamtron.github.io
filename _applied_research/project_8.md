@@ -2,7 +2,7 @@
 title: "Panoptic Segmentation with Mask2Former & PyTorch Lightning"
 collection: applied_research
 permalink: /applied_research/project_8/
-date: 2024-03-15
+date: 2024-08-10
 location: "Ede, Netherlands"
 ---
 

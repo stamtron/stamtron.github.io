@@ -2,7 +2,7 @@
 title: "PyTorch 3D IBN-Net"
 collection: applied_research
 permalink: /applied_research/project_11/
-date: 2021-08-01
+date: 2023-08-24
 location: "Glasgow, UK"
 ---
 

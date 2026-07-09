@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Power of Multimodal Embeddings: A Hands-on Guide"
-date: 2025-04-10
-permalink: /posts/2025/04/multimodal-embeddings-guide/
+date: 2025-12-26
+permalink: /posts/2025/12/multimodal-embeddings-guide/
 tags:
   - Multimodal AI
   - Embeddings

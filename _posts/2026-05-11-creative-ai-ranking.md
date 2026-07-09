@@ -1,7 +1,7 @@
 ---
 title: "Creative AI: Evaluating and Ranking AI Creativity"
-date: 2025-11-01
-permalink: /posts/2025/11/creative-ai-ranking/
+date: 2026-05-11
+permalink: /posts/2026/05/creative-ai-ranking/
 tags:
   - AI Agents
   - WPP Research

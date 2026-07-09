@@ -2,7 +2,7 @@
 title: "Custom Cutout Data Augmentation in PyTorch"
 collection: applied_research
 permalink: /applied_research/project_10/
-date: 2021-04-10
+date: 2023-08-24
 location: "Glasgow, UK"
 ---
 

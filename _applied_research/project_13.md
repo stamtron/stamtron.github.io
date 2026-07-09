@@ -2,7 +2,7 @@
 title: "PyTorch IBN-Encoder LSTM-Decoder"
 collection: applied_research
 permalink: /applied_research/project_13/
-date: 2021-11-15
+date: 2022-10-16
 location: "Glasgow, UK"
 ---
 

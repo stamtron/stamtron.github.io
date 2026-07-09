@@ -2,7 +2,7 @@
 title: "PyTorch Video Dataset Loader & Sampler"
 collection: applied_research
 permalink: /applied_research/project_12/
-date: 2020-12-05
+date: 2023-01-18
 location: "Glasgow, UK"
 ---
 

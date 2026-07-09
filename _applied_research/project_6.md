@@ -2,7 +2,7 @@
 title: "WPP Open ResearchLab: Data Quality Assurance Agent"
 collection: applied_research
 permalink: /applied_research/project_6/
-date: 2026-07-09
+date: 2026-06-29
 location: "London, UK / Remote"
 ---
 

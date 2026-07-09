@@ -1,6 +1,6 @@
 ---
 title: "Agentic Data Guardian: Enterprise Data Quality Management"
-date: 2026-06-01
+date: 2026-06-29
 permalink: /posts/2026/06/agentic-data-guardian/
 tags:
   - AI Agents

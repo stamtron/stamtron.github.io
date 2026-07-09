@@ -2,7 +2,7 @@
 title: "PyTorch Swapping Autoencoder"
 collection: applied_research
 permalink: /applied_research/project_9/
-date: 2022-11-20
+date: 2022-10-16
 location: "Glasgow, UK"
 ---
 

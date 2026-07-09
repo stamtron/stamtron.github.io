@@ -4,7 +4,7 @@ collection: teaching
 type: "Educational Repository"
 permalink: /teaching/teaching-3
 venue: "GitHub Tutorial / Open Source"
-date: 2026-02-15
+date: 2025-12-18
 location: "Online"
 ---
 

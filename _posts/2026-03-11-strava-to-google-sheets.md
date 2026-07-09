@@ -1,7 +1,7 @@
 ---
 title: "Strava Activity to Google Sheets Sync"
-date: 2024-08-15
-permalink: /posts/2024/08/strava-to-google-sheets/
+date: 2026-03-11
+permalink: /posts/2026/03/strava-to-google-sheets/
 tags:
   - Python
   - Automation

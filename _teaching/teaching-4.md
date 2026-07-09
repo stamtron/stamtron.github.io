@@ -4,7 +4,7 @@ collection: teaching
 type: "Guest Lecture"
 permalink: /teaching/teaching-4
 venue: "Athens University of Economics and Business (AUEB)"
-date: 2026-05-15
+date: 2026-02-28
 location: "Athens, Greece"
 ---
 

@@ -3,7 +3,7 @@ title: "Automatic annotation of subsea pipelines using deep learning"
 collection: publications
 permalink: /publication/sensors-2020-pipeline
 excerpt: 'Journal publication in Sensors (MDPI) exploring deep learning methodologies for subsea pipeline video survey automated annotations.'
-date: 2020-04-18
+date: 2020-01-26
 venue: 'Sensors, MDPI'
 paperurl: 'https://doi.org/10.3390/s20030674'
 citation: 'Stamoulakatos, A., Anagnostis, A., & Tachtatzis, C. (2020). Automatic annotation of subsea pipelines using deep learning. <i>Sensors</i>, 20(3), 674.'
